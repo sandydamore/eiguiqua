@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquaica.kevinlubick.com/sitemap.xml
